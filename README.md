@@ -1,8 +1,6 @@
 # s688y_2021
 
-# Considerations of the GluN1 S688Y mutation #
-# using holistic evaluations of the dynamics of the NMDA receptor #
-
+# Considerations of the GluN1 S688Y mutation using holistic evaluations of the dynamics of the NMDA receptor #
 
 
 Chen, Church, Bastard, Duff, Balle (2021)
