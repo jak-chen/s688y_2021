@@ -12,9 +12,12 @@ Australia's Nuclear Sciences and Technology Organisation (ANSTO), New Illawarra 
 
 # For simulation data please navigate to ./MD
     WIP
+    Added initial files for wild + glycine
+    TODO: wild+dser, s688y+gly, s688y+dser
 
 
 # For MM_GBSA data please navigate to ./GBSA
     WIP
+    TODO: all
 
 Questions? Please direct them to jake.chen@sydney.edu.au 
