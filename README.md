@@ -12,6 +12,7 @@ Australia's Nuclear Sciences and Technology Organisation (ANSTO), New Illawarra 
 
 # For simulation data please navigate to ./MD
     WIP
+    Added initial files for wild + glycine
 
 
 # For MM_GBSA data please navigate to ./GBSA
