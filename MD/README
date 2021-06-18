@@ -1,4 +1,10 @@
 Simulation initiation shell scripts are divided into 2 folders under wild and s688y
 
+Simulations were conducted on Schrodinger release 2018-4 with OPLS_2005 force field. 
+Simulations performed on Artemis HPC provided by The University of Sydney Informatics Hub.
+Artemis utilises a modified version of PBS Pro therefore utilises the .pbs file format for job submission. You may need to adapt as required for your own HPC environment.
+GPU Node specifications:
+Intel Xeon Gold 6140, 192GB RAM, NVIDIA V100 SXM2 16GB HBM2
+
 Questions? Send them to jake.chen@sydney.edu.au
 

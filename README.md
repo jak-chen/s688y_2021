@@ -10,9 +10,9 @@ Sydney Computational Drug Discovery Group, Brain and Mind Centre, School of Phar
 Australia's Nuclear Sciences and Technology Organisation (ANSTO), New Illawarra Road, Lucas Heights NSW 2234
 
 
-# For simulation data please navigate to ./MD
-    WIP
-    TODO: s688y+gly, s688y+dser
+# For simulation initialisation shell data please navigate to ./MD
+    COMPLETED
+    Refer to README for details
 
 
 # For MM_GBSA data please navigate to ./GBSA
