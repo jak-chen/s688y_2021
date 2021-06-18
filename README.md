@@ -12,7 +12,7 @@ Australia's Nuclear Sciences and Technology Organisation (ANSTO), New Illawarra 
 
 # For simulation initialisation shell data please navigate to ./MD
     COMPLETED
-    Refer to README for requirements
+    Refer to README for details
 
 
 # For MM_GBSA data please navigate to ./GBSA
