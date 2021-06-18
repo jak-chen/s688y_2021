@@ -1,0 +1,1 @@
+"${SCHRODINGER}/utilities/multisim" -JOBNAME 4nf8_wild_dser-md-artemis -HOST localhost -maxjob 1 -cpu 1 -m 4nf8_wild_dser-md-artemis.msj -c 4nf8_wild_dser-md-artemis.cfg -description 'Molecular Dynamics' 4nf8_wild_dser-md-artemis.cms -mode umbrella -set 'stage[1].set_family.md.jlaunch_opt=["-gpu"]' -o 4nf8_wild_dser-md-artemis-out.cms -lic DESMOND_GPGPU:16
