@@ -1,0 +1,1 @@
+"${SCHRODINGER}/utilities/multisim" -JOBNAME random5-4nf8_wild_gly-md_5 -HOST localhost -maxjob 1 -cpu 1 -m random5-4nf8_wild_gly-md_5.msj -c random5-4nf8_wild_gly-md_5.cfg -description 'Molecular Dynamics' random5-4nf8_wild_gly-md_5.cms -mode umbrella -set 'stage[1].set_family.md.jlaunch_opt=["-gpu"]' -o random5-4nf8_wild_gly-md_5-out.cms -lic DESMOND_GPGPU:16

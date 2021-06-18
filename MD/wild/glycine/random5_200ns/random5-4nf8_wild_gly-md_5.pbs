@@ -1,0 +1,12 @@
+#!/bin/bash
+#PBS -P MMNMDA
+#PBS -l select=1:ncpus=1:ngpus=1:mem=64gb
+
+#PBS -l walltime=36:00:00
+cd $PBS_O_WORKDIR
+
+module load cuda
+
+export SCHRODINGER=/project/MMNMDA/schrodinger/
+
+"${SCHRODINGER}/utilities/multisim" -JOBNAME random5-4nf8_wild_gly-md_5 -maxjob 1 -cpu 1 -m random5-4nf8_wild_gly-md_5.msj -c random5-4nf8_wild_gly-md_5.cfg -description 'Molecular Dynamics' random5-4nf8_wild_gly-md_5.cms -mode umbrella -set 'stage[1].set_family.md.jlaunch_opt=["-gpu"]' -o random5-4nf8_wild_gly-md_5-out.cms -WAIT
