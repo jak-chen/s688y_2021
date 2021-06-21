@@ -1,1 +1,3 @@
+MM-GBSA calculation performed on final 50ns of 200ns simulation trajectories
 
+Calculation performed using thermal_mmgbsa.py script as provided by Schrodinger LLC 
